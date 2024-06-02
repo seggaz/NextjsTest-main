@@ -80,7 +80,7 @@ export const StyledCard = styled.div`
 	display: flex;
 	align-items: center;
 	margin-top: 2rem;
-	padding: 1.5rem;
+	padding: 1.7rem;
 	border: 1px solid #ccc;
 	border-radius: 5px;
 	background: ${props => props.theme.grayE2};
